@@ -1,0 +1,23 @@
+﻿@model VidlyTutorial.Models.Customer
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var date = Convert.ToDateTime(Model.Birth);
+}
+
+<h2>Details</h2>
+<h3>@Model.Name</h3>
+<ul>
+    @if (Model.MembershipType.Name != null)
+    {
+        <li>
+            MembershipType:&nbsp; @Model.MembershipType.Name
+        </li>
+    }
+    @if (Model.Birth != null)
+    {
+        <li>
+            BirthDate:&nbsp; @date.ToString("MM/dd/yyyy")
+        </li>
+    }
+</ul>

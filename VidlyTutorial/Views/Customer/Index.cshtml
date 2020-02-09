@@ -1,0 +1,31 @@
+﻿@model List<VidlyTutorial.Models.Customer>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int size = Model.Count;
+}
+
+<h1>Customers</h1>
+
+<table class="table table-white">
+    <thead>
+        <tr>
+            <th scope="col">Cutomers</th>
+            <th scope="col">Discount Rate</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var items in Model)
+        {
+            <tr>
+                <td><a href="@Url.Action("Details","Customer",new { id = items.Id })" data-form-method="post">@items.Name</a></td>
+                <td>@items.MembershipType.Name</td>
+            </tr>
+        }
+        @*<tr>
+                <th scope="row">1</th>
+                <td>Mark</td>
+                <td>Otto</td>
+                <td>@mdo</td>
+            </tr>*@
+    </tbody>
+</table>
