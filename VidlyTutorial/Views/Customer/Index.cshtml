@@ -17,7 +17,7 @@
         @foreach (var items in Model)
         {
             <tr>
-                <td><a href="@Url.Action("Details","Customer",new { id = items.Id })" data-form-method="post">@items.Name</a></td>
+                <td><a href="@Url.Action("Edit","Customer",new { Id = items.Id })" data-form-method="post">@items.Name</a></td>
                 <td>@items.MembershipType.Name</td>
             </tr>
         }
