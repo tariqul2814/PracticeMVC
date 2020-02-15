@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity;
+using System.Data.Entity.Migrations;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -41,24 +42,56 @@ namespace VidlyTutorial.Controllers
             return View(Movie);
         }
 
-        //public ActionResult Edit(int? id, string name)
-        //{
-        //    return Content("Hello "+name+" ("+id+")");
-        //}
-
-        //public ActionResult Details(int id)
-        //{
-        //    return Content("");
-        //}
-
         public ActionResult EditMovie (int Id)
         {
-            var MoviesVModel = new MovieVModel
+            if(Id==0)
             {
-                movie = context.movies.FirstOrDefault(c=> c.Id == Id),
-                genres = context.genres.ToList()
-            };
-            return View(MoviesVModel);
+                var MoviesVModel = new MovieVModel
+                {
+                    genres = context.genres.ToList()
+                };
+                return View(MoviesVModel);
+            }
+            else
+            {
+                var MoviesVModel = new MovieVModel
+                {
+                    movie = context.movies.FirstOrDefault(c => c.Id == Id),
+                    genres = context.genres.ToList()
+                };
+                return View(MoviesVModel);
+            }
+            
+        }
+
+        public ActionResult Edit(Movie Movie)
+        {
+            Movie.ReleaseDate = Movie.ReleaseDate.Date;
+            if(Movie.Id==0)
+            {
+                context.movies.Add(Movie);
+                context.SaveChanges();
+
+                var MoviesVModel = new MovieVModel
+                {
+                    movie = Movie,
+                    genres = context.genres.ToList()
+                };
+                return View("EditMovie", MoviesVModel);
+            }
+            else
+            {
+                context.movies.AddOrUpdate(Movie);
+                context.SaveChanges();
+
+                var MoviesVModel = new MovieVModel
+                {
+                    movie = Movie,
+                    genres = context.genres.ToList()
+                };
+                return View("EditMovie", MoviesVModel);
+            }
+            
         }
         public ActionResult Index (int? pageIndex, string sortBy)
         {

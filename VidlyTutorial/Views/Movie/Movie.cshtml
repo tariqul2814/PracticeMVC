@@ -12,7 +12,11 @@
 </head>
 <body>
     <h1>Movies</h1>
-    <button onclick="@Url.Action("","")"></button>
+    @using (Html.BeginForm("EditMovie", "Movie", FormMethod.Post))
+    {
+        <input type="hidden" id="Id" name="Id" value="0">
+        <button type="submit">New Movie</button>
+    }
     <table class="table table-white">
         <thead>
             <tr>
@@ -27,7 +31,7 @@
                 {
                     <tr>
                         <td>
-                            <a href="@Url.Action("Edit","Movie", new { Id = items.Id, Name=items.Name})">@items.Name</a>
+                            <a href="@Url.Action("EditMovie","Movie", new { Id = items.Id })">@items.Name</a>
                         </td>
                         <td>
                             @items.Genre.Name

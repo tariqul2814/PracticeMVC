@@ -363,7 +363,6 @@
     <Content Include="Views\Customer\Details.cshtml" />
     <Content Include="Views\Customer\CreateCustomer.cshtml" />
     <Content Include="Views\Customer\Edit.cshtml" />
-    <Content Include="Views\Movie\CreateMovie.cshtml" />
     <Content Include="Views\Movie\EditMovie.cshtml" />
   </ItemGroup>
   <ItemGroup>

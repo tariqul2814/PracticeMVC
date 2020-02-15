@@ -30,14 +30,14 @@ namespace VidlyTutorial.Controllers
             var NewCustomerViewModel = new NewCustomerViewModel
             {
                 customer = context.customers.FirstOrDefault(x=> x.Id==Id),
-                membershipType = context.membershiptype.ToList()
+                membershipType = context.membershipTypes.ToList()
             };
             return View(NewCustomerViewModel);
         }
 
         public ActionResult EditCustomer(NewCustomerViewModel newCustomer)
         {
-            newCustomer.membershipType = context.membershiptype.ToList();
+            newCustomer.membershipType = context.membershipTypes.ToList();
             context.customers.AddOrUpdate(newCustomer.customer);
             context.SaveChanges();
             return RedirectToAction("Edit","Customer", new { Id = newCustomer.customer.Id });
@@ -45,7 +45,7 @@ namespace VidlyTutorial.Controllers
 
         public ActionResult CreateCustomer()
         {
-            var MemberTypeList = context.membershiptype.ToList();
+            var MemberTypeList = context.membershipTypes.ToList();
             NewCustomerViewModel newVModel = new NewCustomerViewModel()
             {
                 membershipType = MemberTypeList
