@@ -189,6 +189,7 @@
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\MembershipType.cs" />
     <Compile Include="Models\Movie.cs" />
+    <Compile Include="Models\ViewModel\MovieVModel.cs" />
     <Compile Include="Models\ViewModel\NewCustomerViewModel.cs" />
     <Compile Include="Models\ViewModel\RandomMovieViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -362,6 +363,8 @@
     <Content Include="Views\Customer\Details.cshtml" />
     <Content Include="Views\Customer\CreateCustomer.cshtml" />
     <Content Include="Views\Customer\Edit.cshtml" />
+    <Content Include="Views\Movie\CreateMovie.cshtml" />
+    <Content Include="Views\Movie\EditMovie.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

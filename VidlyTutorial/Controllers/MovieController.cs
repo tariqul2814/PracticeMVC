@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -35,21 +36,30 @@ namespace VidlyTutorial.Controllers
 
         public ActionResult Movie()
         {
-            var Movies = context.movies.ToList();
+            var Movie = context.movies.Include(c=> c.Genre).ToList();
             //var customers = context.customers.Include(c=> c.MembershipType).ToList();
-            return View(Movies);
+            return View(Movie);
         }
 
-        public ActionResult Edit(int? id, string name)
+        //public ActionResult Edit(int? id, string name)
+        //{
+        //    return Content("Hello "+name+" ("+id+")");
+        //}
+
+        //public ActionResult Details(int id)
+        //{
+        //    return Content("");
+        //}
+
+        public ActionResult EditMovie (int Id)
         {
-            return Content("Hello "+name+" ("+id+")");
+            var MoviesVModel = new MovieVModel
+            {
+                movie = context.movies.FirstOrDefault(c=> c.Id == Id),
+                genres = context.genres.ToList()
+            };
+            return View(MoviesVModel);
         }
-
-        public ActionResult Details(int id)
-        {
-            return Content("");
-        }
-
         public ActionResult Index (int? pageIndex, string sortBy)
         {
             if(!pageIndex.HasValue)

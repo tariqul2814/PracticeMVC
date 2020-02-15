@@ -1,212 +1,107 @@
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\VidlyTutorial.dll.config
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\VidlyTutorial.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\VidlyTutorial.pdb
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\csc.exe
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\csc.exe.config
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\csc.rsp
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\csi.exe
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\csi.exe.config
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\csi.rsp
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\Microsoft.CSharp.Core.targets
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\Microsoft.Managed.Core.targets
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\Microsoft.VisualBasic.Core.targets
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.AppContext.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Collections.Immutable.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Console.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Diagnostics.StackTrace.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.IO.Compression.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.IO.FileSystem.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.IO.FileSystem.Primitives.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.IO.Pipes.AccessControl.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.IO.Pipes.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Reflection.Metadata.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Security.AccessControl.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Security.Claims.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Security.Cryptography.Encoding.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Security.Cryptography.Primitives.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Security.Principal.Windows.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Text.Encoding.CodePages.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.ValueTuple.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Xml.ReaderWriter.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Xml.XmlDocument.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Xml.XPath.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\System.Xml.XPath.XDocument.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\vbc.exe
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\vbc.exe.config
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\vbc.rsp
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\VBCSCompiler.exe
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\roslyn\VBCSCompiler.exe.config
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Antlr3.Runtime.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\EntityFramework.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\EntityFramework.SqlServer.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.AspNet.Identity.Core.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.AspNet.Identity.Owin.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Host.SystemWeb.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Security.Cookies.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Security.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Security.Facebook.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Security.Google.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Security.OAuth.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Security.Twitter.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Web.Infrastructure.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Newtonsoft.Json.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Owin.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\System.Web.Helpers.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\System.Web.Mvc.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\System.Web.Optimization.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\System.Web.Razor.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\System.Web.WebPages.Deployment.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\System.Web.WebPages.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\System.Web.WebPages.Razor.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\WebGrease.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\System.Web.Helpers.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\System.Web.Mvc.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\System.Web.Optimization.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\System.Web.Razor.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\System.Web.WebPages.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\System.Web.WebPages.Deployment.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\System.Web.WebPages.Razor.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Newtonsoft.Json.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Antlr3.Runtime.pdb
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\EntityFramework.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\EntityFramework.SqlServer.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.AspNet.Identity.Core.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.AspNet.Identity.Owin.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Host.SystemWeb.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Security.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Security.Facebook.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Security.Cookies.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Security.Google.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Security.Twitter.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.Owin.Security.OAuth.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\Vidly\VidlyTutorial\VidlyTutorial\obj\Debug\VidlyTutorial.csprojAssemblyReference.cache
-E:\Vidly\VidlyTutorial\VidlyTutorial\obj\Debug\VidlyTutorial.csproj.CoreCompileInputs.cache
-E:\Vidly\VidlyTutorial\VidlyTutorial\obj\Debug\VidlyTutorial.csproj.CopyComplete
-E:\Vidly\VidlyTutorial\VidlyTutorial\obj\Debug\VidlyTutorial.dll
-E:\Vidly\VidlyTutorial\VidlyTutorial\obj\Debug\VidlyTutorial.pdb
-E:\Vidly\VidlyTutorial\VidlyTutorial\obj\Debug\VidlyTutorial.Migrations.a1.resources
-E:\Vidly\VidlyTutorial\VidlyTutorial\obj\Debug\VidlyTutorial.csproj.GenerateResource.cache
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\VidlyTutorial.dll.config
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\VidlyTutorial.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\VidlyTutorial.pdb
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\csc.exe
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\csc.exe.config
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\csc.rsp
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\csi.exe
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\csi.exe.config
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\csi.rsp
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.Managed.Core.targets
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.AppContext.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Collections.Immutable.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Console.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.IO.Compression.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.IO.FileSystem.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.IO.Pipes.AccessControl.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.IO.Pipes.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Reflection.Metadata.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Security.AccessControl.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Security.Claims.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Security.Cryptography.Encoding.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Security.Cryptography.Primitives.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Security.Principal.Windows.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Text.Encoding.CodePages.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.ValueTuple.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Xml.ReaderWriter.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Xml.XmlDocument.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Xml.XPath.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\System.Xml.XPath.XDocument.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\vbc.exe
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\vbc.exe.config
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\vbc.rsp
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\VBCSCompiler.exe
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\roslyn\VBCSCompiler.exe.config
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Antlr3.Runtime.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\EntityFramework.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\EntityFramework.SqlServer.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.AspNet.Identity.Core.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.AspNet.Identity.Owin.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Host.SystemWeb.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Cookies.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Facebook.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Google.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.OAuth.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Twitter.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Web.Infrastructure.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Newtonsoft.Json.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Owin.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.Helpers.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.Mvc.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.Optimization.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.Razor.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.WebPages.Deployment.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.WebPages.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.WebPages.Razor.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\WebGrease.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.Helpers.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.Mvc.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.Optimization.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.Razor.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.WebPages.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.WebPages.Deployment.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.WebPages.Razor.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Newtonsoft.Json.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Antlr3.Runtime.pdb
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\EntityFramework.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\EntityFramework.SqlServer.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.AspNet.Identity.Core.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.AspNet.Identity.Owin.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Host.SystemWeb.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Facebook.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Cookies.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Google.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Twitter.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.OAuth.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.csprojResolveAssemblyReference.cache
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.Migrations.a1.resources
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.csproj.GenerateResource.Cache
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.dll
-D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.pdb
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\VidlyTutorial.dll.config
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\VidlyTutorial.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\VidlyTutorial.pdb
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\csc.exe
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\csc.exe.config
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\csc.rsp
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\csi.exe
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\csi.exe.config
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\csi.rsp
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.AppContext.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Collections.Immutable.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Console.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.IO.Compression.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.IO.FileSystem.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.IO.Pipes.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Reflection.Metadata.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Security.AccessControl.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Security.Claims.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.ValueTuple.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Xml.XPath.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\vbc.exe
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\vbc.exe.config
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\vbc.rsp
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\VBCSCompiler.exe
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\roslyn\VBCSCompiler.exe.config
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Antlr3.Runtime.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\EntityFramework.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\EntityFramework.SqlServer.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Google.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Web.Infrastructure.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Newtonsoft.Json.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Owin.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\System.Web.Helpers.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\System.Web.Mvc.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\System.Web.Optimization.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\System.Web.Razor.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\System.Web.WebPages.Deployment.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\System.Web.WebPages.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\System.Web.WebPages.Razor.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\WebGrease.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\System.Web.Helpers.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\System.Web.Mvc.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\System.Web.Optimization.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\System.Web.Razor.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\System.Web.WebPages.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\System.Web.WebPages.Deployment.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\System.Web.WebPages.Razor.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Newtonsoft.Json.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Antlr3.Runtime.pdb
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\EntityFramework.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\EntityFramework.SqlServer.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Google.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Vidly\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.Migrations.a1.resources
+E:\Vidly\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.csproj.GenerateResource.cache
+E:\Vidly\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.csproj.CoreCompileInputs.cache
+E:\Vidly\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.csproj.CopyComplete
+E:\Vidly\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.dll
+E:\Vidly\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.pdb
+E:\Vidly\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.csprojAssemblyReference.cache

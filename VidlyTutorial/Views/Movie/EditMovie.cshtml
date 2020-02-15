@@ -1,0 +1,30 @@
+﻿@model VidlyTutorial.Models.ViewModel.MovieVModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("", "Movie", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.movie.Name)
+        @Html.TextBoxFor(m => m.movie.Name, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.movie.ReleaseDate)
+        @Html.TextBoxFor(m => m.movie.ReleaseDate, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.movie.NumberStock)
+        @Html.TextBoxFor(m => m.movie.NumberStock, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.DropDownListFor(m => m.movie.GenreId, new SelectList(Model.genres, "Id", "Name"), " ---Select Genres --- ", new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <button type="submit">Save</button>
+    </div>
+
+}
