@@ -37,6 +37,14 @@ namespace VidlyTutorial.Controllers
 
         public ActionResult EditCustomer(NewCustomerViewModel newCustomer)
         {
+            //if(!ModelState.IsValid)
+            //{
+            //    var NewCustomerViewModel = new NewCustomerViewModel
+            //    {
+            //        membershipType = context.membershipTypes.ToList()
+            //    };
+            //    return View("Edit",NewCustomerViewModel);
+            //}
             newCustomer.membershipType = context.membershipTypes.ToList();
             context.customers.AddOrUpdate(newCustomer.customer);
             context.SaveChanges();

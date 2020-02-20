@@ -210,3 +210,10 @@ D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.Migrations
 D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.csproj.GenerateResource.Cache
 D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.dll
 D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.pdb
+D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\obj\Debug\VidlyTutorial.Migrations.a2.resources
+D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Net.Http.Formatting.dll
+D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.Http.dll
+D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.Http.WebHost.dll
+D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Net.Http.Formatting.xml
+D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.Http.xml
+D:\ASP.Net Practice\PracticeMVC\VidlyTutorial\bin\System.Web.Http.WebHost.xml
